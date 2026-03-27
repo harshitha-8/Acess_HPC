@@ -13,4 +13,4 @@ $$IG(S, A) = Entropy(S) - \sum_{v \in Values(A)} \frac{|S_v|}{|S|} Entropy(S_v)$
 Where $Entropy(S) = -p_+ \log_2 p_+ - p_- \log_2 p_-$. The dataset splits recursively, terminating when the data is entirely pure, or subsequent splits yield zero information.
 
 ### 1.3 Target Performance & Structure
-Upon successful recursive splitting,
+Upon successful recursive splitting, the model builds a per
