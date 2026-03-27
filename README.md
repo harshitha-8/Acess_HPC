@@ -22,3 +22,7 @@ Upon successful recursive splitting, the model builds a perfectly pure tree capa
 Below is the geometric rendering mapping the exact topological decision boundary created strictly from native Python calculations:
 
 ![Decision Tree](decision_tree.png)
+
+---
+
+## Part 2: Statis
