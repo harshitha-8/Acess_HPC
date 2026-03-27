@@ -25,4 +25,4 @@ Below is the geometric rendering mapping the exact topological decision boundary
 
 ---
 
-## Part 2: Statis
+## Part 2: Statistical Learning Theory -
