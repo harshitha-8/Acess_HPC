@@ -31,4 +31,4 @@ The following sections define rigorous mathematical generalizations bounding the
 
 ### 2.1 Axis-Aligned 3D Boxes
 
-**Theoretical Finding:** $
+**Theoretical Finding:** $\text{VC}(\mathcal{H}) 
