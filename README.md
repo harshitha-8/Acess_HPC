@@ -4,4 +4,5 @@ This repository contains the technical implementations and mathematical proofs f
 
 ## Part 1: Algorithmic Implementation - ID3 Decision Tree
 
-### 1.1
+### 1.1 Overview
+The objective
