@@ -16,4 +16,6 @@ Where $Entropy(S) = -p_+ \log_2 p_+ - p_- \log_2 p_-$. The dataset splits recurs
 Upon successful recursive splitting, the model builds a perfectly pure tree capable of near-flawless classification.
 - **Max Height:** 4
 - **Total Nodes:** 27
-- **Roots & Leaves:** Safely categorizing all species through distinct decision path
+- **Roots & Leaves:** Safely categorizing all species through distinct decision paths.
+
+### 1.4 Hierarchica
