@@ -19,4 +19,4 @@ Upon successful recursive splitting, the model builds a perfectly pure tree capa
 - **Roots & Leaves:** Safely categorizing all species through distinct decision paths.
 
 ### 1.4 Hierarchical Visualization
-Below i
+Below is the geometric renderi
