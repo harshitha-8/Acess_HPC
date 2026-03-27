@@ -14,4 +14,5 @@ Where $Entropy(S) = -p_+ \log_2 p_+ - p_- \log_2 p_-$. The dataset splits recurs
 
 ### 1.3 Target Performance & Structure
 Upon successful recursive splitting, the model builds a perfectly pure tree capable of near-flawless classification.
-- **Max Hei
+- **Max Height:** 4
+- **Total Node
