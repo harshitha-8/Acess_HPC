@@ -25,4 +25,6 @@ Below is the geometric rendering mapping the exact topological decision boundary
 
 ---
 
-## Part 2: Statistical Learning Theory -
+## Part 2: Statistical Learning Theory - VC Dimension
+
+The foll
