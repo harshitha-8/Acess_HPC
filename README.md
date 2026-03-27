@@ -40,4 +40,4 @@ The following sections define rigorous mathematical generalizations bounding the
 ![3D Box Shattering](vc_3d_box.png)
 
 **PAC Learning Bounds:**
-$$ M \geq \frac{1}{\epsilon} 
+$$ M \geq \frac{1}{\epsilon} \left[ 4 \ln \left(\fra
