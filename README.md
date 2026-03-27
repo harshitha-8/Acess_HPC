@@ -19,4 +19,6 @@ Upon successful recursive splitting, the model builds a perfectly pure tree capa
 - **Roots & Leaves:** Safely categorizing all species through distinct decision paths.
 
 ### 1.4 Hierarchical Visualization
-Below is the geometric rendering mapping the exact topological decision boundary created strictly from native Python calcu
+Below is the geometric rendering mapping the exact topological decision boundary created strictly from native Python calculations:
+
+![Decision Tr
