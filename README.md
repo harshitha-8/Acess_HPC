@@ -39,4 +39,5 @@ The following sections define rigorous mathematical generalizations bounding the
 
 ![3D Box Shattering](vc_3d_box.png)
 
-**PAC Le
+**PAC Learning Bounds:**
+$$ M \
