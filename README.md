@@ -33,4 +33,5 @@ The following sections define rigorous mathematical generalizations bounding the
 
 **Theoretical Finding:** $\text{VC}(\mathcal{H}) = 6$
 
-**Proof Summary:*
+**Proof Summary:**
+- **Lower Bound:** Co
