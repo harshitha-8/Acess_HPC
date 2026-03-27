@@ -5,4 +5,4 @@ This repository contains the technical implementations and mathematical proofs f
 ## Part 1: Algorithmic Implementation - ID3 Decision Tree
 
 ### 1.1 Overview
-The objective was to build a Decision Tree classifier entirely from scratch using fundamental libraries without relying on high-
+The objective was to build a Decision Tree classifier entirely from scratch using fundamental libraries without relying on high-level APIs like `scikit
