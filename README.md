@@ -31,4 +31,6 @@ The following sections define rigorous mathematical generalizations bounding the
 
 ### 2.1 Axis-Aligned 3D Boxes
 
-**Theoretical Finding:** $\text{VC}(\mathcal{H}) 
+**Theoretical Finding:** $\text{VC}(\mathcal{H}) = 6$
+
+**Proof Summary:*
