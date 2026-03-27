@@ -7,4 +7,5 @@ This repository contains the technical implementations and mathematical proofs f
 ### 1.1 Overview
 The objective was to build a Decision Tree classifier entirely from scratch using fundamental libraries without relying on high-level APIs like `scikit-learn`. The script parses the UCI Mushroom Dataset to differentiate poisonous vs. edible species using Information Gain as the primary heuristic.
 
-### 1.2 Infor
+### 1.2 Information Gain Selection
+A
