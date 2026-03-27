@@ -35,4 +35,4 @@ The following sections define rigorous mathematical generalizations bounding the
 
 **Proof Summary:**
 - **Lower Bound:** Constructing a set of 6 points aligned uniquely on Cartesian extremities allows shattering since any binary subset trivially scales respective boundary planes individually.
-- **Upper Bound:** Any configuration
+- **Upper Bound:** Any configuration of 7 points produces a
