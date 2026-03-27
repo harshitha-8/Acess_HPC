@@ -34,4 +34,4 @@ The following sections define rigorous mathematical generalizations bounding the
 **Theoretical Finding:** $\text{VC}(\mathcal{H}) = 6$
 
 **Proof Summary:**
-- **Lower Bound:** Co
+- **Lower Bound:** Constructing a set of 6 p
