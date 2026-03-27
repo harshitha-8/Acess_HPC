@@ -18,4 +18,5 @@ Upon successful recursive splitting, the model builds a perfectly pure tree capa
 - **Total Nodes:** 27
 - **Roots & Leaves:** Safely categorizing all species through distinct decision paths.
 
-### 1.4 Hierarchica
+### 1.4 Hierarchical Visualization
+Below i
