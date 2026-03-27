@@ -1,3 +1,3 @@
 # Machine Learning Technical Report: Decision Trees & VC Dimension Theory
 
-This repository contains the technical implementations and mathematical proofs for CS 6375 (Machine Learning) spanning algorithmic hypothesis generation (I
+This repository contains the technical implementations and mathematical proofs for CS 6375 (Machine Learning) spanning algorithmic hypothesis generation (ID3 Decision Trees) and 
