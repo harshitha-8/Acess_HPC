@@ -34,4 +34,4 @@ The following sections define rigorous mathematical generalizations bounding the
 **Theoretical Finding:** $\text{VC}(\mathcal{H}) = 6$
 
 **Proof Summary:**
-- **Lower Bound:** Constructing a set of 6 points aligned uniquely on Cartesian extremities allows shattering since any binary subset tr
+- **Lower Bound:** Constructing a set of 6 points aligned uniquely on Cartesian extremities allows shattering since any binary subset trivially scales respecti
