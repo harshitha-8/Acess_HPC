@@ -37,4 +37,6 @@ The following sections define rigorous mathematical generalizations bounding the
 - **Lower Bound:** Constructing a set of 6 points aligned uniquely on Cartesian extremities allows shattering since any binary subset trivially scales respective boundary planes individually.
 - **Upper Bound:** Any configuration of 7 points produces an interior coordinate topologically trapped by the minimal bounding box of the remaining 6.
 
-![3D Box Shattering](v
+![3D Box Shattering](vc_3d_box.png)
+
+**PAC Le
