@@ -59,4 +59,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 **Proof Summary:**
 - A scalar spatial dimension dictated merely by Euclidean radial offsets models functionally identical to continuous 1-Dimensional bounds.
-- Capturing dual alternating gaps $(+, -, +)$ forces geometrically identical coverage boundaries to inadvertently encapsulate bou
+- Capturing dual alternating gaps $(+, -, +)$ forces geometrically identical coverage boundaries to inadvertently encapsulate bounded core logic. This n
