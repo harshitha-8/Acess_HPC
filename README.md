@@ -45,4 +45,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 ### 2.2 Weighted Combinations of Rectangles ($\mathcal{H}'$)
 
-**Theoretic
+**Theoretical Finding:** The linea
