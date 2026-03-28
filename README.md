@@ -65,4 +65,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 ### 2.4 Unfixed Annular Limits
 
-**Theoretical Finding:** Expanding the topo
+**Theoretical Finding:** Expanding the topological structure mathe
