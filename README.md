@@ -41,4 +41,4 @@ The following sections define rigorous mathematical generalizations bounding the
 
 **PAC Learning Bounds:**
 $$ M \geq \frac{1}{\epsilon} \left[ 4 \ln \left(\frac{2}{\delta}\right) + 8 \cdot VC(\mathcal{H}) \ln \left(\frac{13}{\epsilon}\right) \right] $$
-By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorously mandates **1076 samples**. This bounds geometrically
+By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorously mandates **1076 samples**. This bounds geometrically to $\mathbb{R}^d$ via 
