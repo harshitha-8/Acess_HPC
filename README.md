@@ -58,4 +58,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 **Theoretical Finding:** $\text{VC}(\mathcal{H}) = 2$
 
 **Proof Summary:**
-- A scalar spatial dimension dictated merely by Euclidean radial offsets models functionally identical to c
+- A scalar spatial dimension dictated merely by Euclidean radial offsets models functionally identical to continuous 1-Dimensional
