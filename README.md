@@ -49,4 +49,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 **Proof Summary:**
 - The hypothesis space functionally computes geometric overlay restrictions depending on ties. Defining $\text{sign}(0) = +1$ enables a geometric union mapping.
-- While independent geometric unions are notoriously bounded below limits like 9, linear thresholds uniquely compress intersections eliminating standard symmetric XOR mapping permutations. The hypoth
+- While independent geometric unions are notoriously bounded below limits like 9, linear thresholds uniquely compress intersections eliminating standard symmetric XOR mapping permutations. The hypothesis models exactly spa
