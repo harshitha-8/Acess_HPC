@@ -51,4 +51,6 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 - The hypothesis space functionally computes geometric overlay restrictions depending on ties. Defining $\text{sign}(0) = +1$ enables a geometric union mapping.
 - While independent geometric unions are notoriously bounded below limits like 9, linear thresholds uniquely compress intersections eliminating standard symmetric XOR mapping permutations. The hypothesis models exactly spatial separation limiting generic subsets bounds.
 
-![Weighted Rectangles Bound](vc_rectangles
+![Weighted Rectangles Bound](vc_rectangles.png)
+
+### 2.3 Concentr
