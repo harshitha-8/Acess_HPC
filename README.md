@@ -48,4 +48,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 **Theoretical Finding:** The linear threshold mapping requires qualitative constraints defining the $0$ intercept for true combinations.
 
 **Proof Summary:**
-- The hypothesis space functionally computes geometric overla
+- The hypothesis space functionally computes geometric overlay restrictions dependin
