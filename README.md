@@ -53,4 +53,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 ![Weighted Rectangles Bound](vc_rectangles.png)
 
-### 2.3 Concentr
+### 2.3 Concentric Circles at the Origi
