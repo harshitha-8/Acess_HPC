@@ -45,4 +45,6 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 ### 2.2 Weighted Combinations of Rectangles ($\mathcal{H}'$)
 
-**Theoretical Finding:** The linear threshold mapping requires qualitative constraints defining the $0$ intercept for true com
+**Theoretical Finding:** The linear threshold mapping requires qualitative constraints defining the $0$ intercept for true combinations.
+
+**Proof Sum
