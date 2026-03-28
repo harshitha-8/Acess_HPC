@@ -63,4 +63,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 ![Concentric Annulus Projection](vc_concentric_fixed.png)
 
-### 2.
+### 2.4 Unfixed Annular Limit
