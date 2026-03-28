@@ -49,4 +49,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 
 **Proof Summary:**
 - The hypothesis space functionally computes geometric overlay restrictions depending on ties. Defining $\text{sign}(0) = +1$ enables a geometric union mapping.
-- While indepen
+- While independent geometric unions a
