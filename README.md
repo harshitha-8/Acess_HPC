@@ -68,4 +68,4 @@ By computing $\epsilon = 0.2$ and $\delta = 0.05$, the sample complexity rigorou
 **Theoretical Finding:** Expanding the topological structure mathematically ensures $\text{VC} \geq 4$.
 
 **Proof Summary:**
-- Translati
+- Translating the absolute origin 
