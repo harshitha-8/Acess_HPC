@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS metadata sidecar files
+._*
+
+# HPC output artifacts
+output/*.log
+output/*.err
+output/agrogpt_results_*.json
+output/dataset_inventory.json

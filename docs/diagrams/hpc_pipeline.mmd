@@ -1,0 +1,7 @@
+flowchart LR
+    U["sbatch submission.slurm"] --> S["SLURM scheduler"]
+    S --> E["Set cache/env vars"]
+    E --> P["pip install dependencies"]
+    P --> I["Run LLM.py inference"]
+    I --> O["Write results to output/"]
+    I --> L["Write slurm logs"]

@@ -1,0 +1,11 @@
+flowchart TB
+    A["Acess_HPC"] --> B["Files"]
+    A --> C["output"]
+
+    B --> B1["LLM.py"]
+    B --> B2["submission.slurm"]
+    B --> B3["Dataset_structure_assessment.py"]
+
+    C --> C1["dataset_inventory.json"]
+    C --> C2["agrogpt_results_*.json"]
+    C --> C3["slurm_*.log / slurm_*.err"]
